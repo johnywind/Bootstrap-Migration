@@ -22,7 +22,7 @@ find "$1" -type f | while read file; do
             echo "Search expression: $search"
             echo "Replace expression: $replace"
             # Perform the search and replace using sed
-            sed -i "s#$search#$replace#g" "$file"
+            sed -i "s#\b$search\b#$replace#g" "$file"
         done < "$SEARCH_FILE" 3< "$REPLACE_FILE"
     fi
 done
