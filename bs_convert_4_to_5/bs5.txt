@@ -1,0 +1,12 @@
+float-xs-end
+float-sm-end
+float-md-end
+float-lg-end
+float-end
+float-xs-start
+float-sm-start
+float-md-start
+float-lg-start
+float-start
+data-bs-toggle
+data-bs-target

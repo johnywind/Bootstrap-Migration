@@ -1,0 +1,12 @@
+float-right-xs
+float-right-sm
+float-right-md
+float-right-lg
+float-right
+float-left-xs
+float-left-sm
+float-left-md
+float-left-lg
+float-left
+data-toggle
+data-target
